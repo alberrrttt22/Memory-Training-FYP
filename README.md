@@ -58,7 +58,7 @@ Access it at: https://fyp-project-d6e01.firebaseapp.com/
 
 ## Game Modes
 
-### **Visual Memory** 🧩
+### <u>**Visual Memory** 🧩</u>
 
 ![Visual Quest](./public/screenshots/visualquest.png)
 
@@ -68,7 +68,7 @@ Access it at: https://fyp-project-d6e01.firebaseapp.com/
 
 - Local multiplayer uses hidden turns and fairness rules (e.g., extra turn on correct match).
 
-### **Sound Memory (Piano)** 🎵
+### <u>**Sound Memory (Piano)** 🎵</u>
 
 ![Sound Quest](./public/screenshots/soundquest.png)
 
@@ -80,7 +80,7 @@ Three submodes:
 
 3. Learn New Songs — Select a song, learn via guided notes, then test memorization.
 
-### **Fusion Mode (Sound + Visual)** 🌊
+### <u>**Fusion Mode (Sound + Visual)** 🌊</u>
 
 ![Fusion Quest](./public/screenshots/fusionquest.png)
 
@@ -90,7 +90,7 @@ Three submodes:
 
 - Mixes visual grid and audio cues.
 
-### **Dashboard** 📊
+### <u>**Dashboard** 📊</u>
 
 ![Dashboard](./public/screenshots/dashboard.png)
 
